@@ -2,3 +2,8 @@
 	path = OCA/wms
 	url = git@github.com:OCA/wms.git
 	branch = 13.0
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 13.0
